@@ -1,0 +1,128 @@
+*{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #000000;
+    color: white;
+}
+
+.header {
+    padding-left: 20px;
+    height: 400px;
+    background: url(code.png) ;
+ background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.titre {
+    margin-bottom: 40px;
+    font-size: xx-large;
+}
+
+.traitrouge hr { 
+    color: red;
+    width: 200px;
+    margin-right: 40px;
+}
+
+.bouton {
+    background-color: rgb(255, 255, 255);
+    color: black;
+   border-radius: 4px;
+   font-size: 18px;
+   font-weight: 500;
+   margin: 24px 0 12px;
+   width: 200px;
+   height: 50px;
+   display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+.second {
+    display: flex;
+    align-items: center;
+}
+
+.petit-langue {
+    margin-top: 10px;
+    color: grey;
+}
+
+
+section {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.list {
+    margin-left: 30px;
+}
+
+.parapetit {
+    color: gray;
+}
+
+.parapetit2 {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-right: 15px ;
+}
+
+.ul2 {
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+li {
+    padding: 15px;
+}
+
+
+.titremain {
+    margin-top: 60px;
+}
+
+.bacpro {
+    display: flex;
+    align-items: center;
+}
+
+.bacpro img {
+    padding-right: 30px;
+}
+
+.bep {
+    display: flex;
+    align-items: center;
+}
+
+.bep img {
+    padding-right: 30px;
+}
+
+.brevet {
+    display: flex;
+    align-items: center;
+}
+
+.brevet img {
+    padding-right: 30px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.info h1 {
+    color: rgb(220, 220, 220);
+    
+}
